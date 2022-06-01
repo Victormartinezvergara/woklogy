@@ -114,6 +114,14 @@ article{
 	color: gray;
 }
 
+@media screen and (max-width: 818px){
+	
+    .somos h4{
+		margin: 5px 20px 5px 20px;
+	}
+	
+}
+
 .fon{
 	display: flex;
 	color: gray;
